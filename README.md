@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋 ! My name is Miguel Angel, and I'm an Engineer in Information Technology and Digital Business from México 🇲🇽 !</h2>
+<h2 align="left">My name is Miguel Angel, and I'm an Engineer in Information Technology and Digital Business from México 🇲🇽 !</h2>
 
 ###
 
