@@ -60,7 +60,7 @@
   <tr style="border: none;">
     <td width="50%" align="left" style="border: none; padding: 0; margin: 0; vertical-align: top;">
       <a href="https://open.spotify.com/user/coder612">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=coder612&count=3&unique=true" alt="Spotify recently played"  />
+        <img src="https://portfolio-mike-one.vercel.app/api/spotify-recent?count=3" alt="Spotify recently played"  />
       </a>
     </td>
     <td width="50%" align="right" style="border: none; padding: 0; margin: 0; vertical-align: top;">
